@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,ignore",
+    "logging_enabled": "false",
+    "name": "ignoreSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "ignoreSmokeTest.js"
+}
